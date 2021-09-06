@@ -1,7 +1,7 @@
 <?php
 
 /**
- * This maintenance script replaces archive.org links that are still alive for live links
+ * This maintenance script replaces archive.org links for live links
  */
 
 require_once __DIR__ . '/w/maintenance/Maintenance.php';
